@@ -1,4 +1,4 @@
-# Password Generator 🔐
+# Password Generator 
 
 A beginner-friendly Python password generator that uses secure randomness.
 
